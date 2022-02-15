@@ -5,4 +5,3 @@ for (double i = 0; i <= N; i=i+2)
 {
     Console.WriteLine($"Куб числа {i} равен {i*i*i}");
 }
-//i*i*i
